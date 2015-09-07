@@ -9,4 +9,4 @@ $ mp3md5sum.sh bach.mp3
 a4bd73c05553db9a7960216bd5080f66
 ```
 
-(Bach mp3 courtesy of https://archive.org/details/PabloCasalsCelloSuiteNo.1InGMajorBwv1007I.Prelude)
+(Bach mp3 courtesy of [archive.org](https://archive.org/details/PabloCasalsCelloSuiteNo.1InGMajorBwv1007I.Prelude))
